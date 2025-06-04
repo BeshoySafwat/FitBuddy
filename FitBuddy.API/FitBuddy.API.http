@@ -1,0 +1,6 @@
+@FitBuddy.API_HostAddress = http://localhost:5109
+
+GET {{FitBuddy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
